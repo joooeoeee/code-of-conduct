@@ -134,4 +134,4 @@ conducts and diversity statements as our inspiration:
 - [Contributor Covenant](http://contributor-covenant.org/)
 - [Geek Feminism](http://geekfeminism.org/about/code-of-conduct/)
 - [Citizen Code of Conduct](http://citizencodeofconduct.org/)
-- [TODO Group](http://todogroup.org/opencodeofconduct/)
+- [TODO Group](https://todogroup.org/about/code-of-conduct/)
